@@ -12,7 +12,7 @@ public class firstandlast {
         return n;
     }
     static int last(int n){
-            n=n%10;
-            return n;
-        }
+        n=n%10;
+        return n;
     }
+}

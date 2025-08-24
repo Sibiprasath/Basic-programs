@@ -12,7 +12,6 @@ public class Fibonacci {
         }
         System.out.println(count);
     }
-
     public static int fibonacci(int n) {
         if (n <= 1) {
             return n;

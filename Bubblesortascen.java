@@ -15,7 +15,6 @@ public class Bubblesortascen {
             System.out.print(arr[i]+" ");
         }
     }
-
     public static void main(String[] args) {
         Scanner old=new Scanner(System.in);
         int renge=old.nextInt();

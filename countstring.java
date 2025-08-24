@@ -10,7 +10,6 @@ public class countstring{
                     count++;
                 }
             }
-
         System.out.print(count);
     }
 }
